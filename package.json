@@ -2,6 +2,7 @@
   "name": "metalsmith-html-linter",
   "version": "0.0.1",
   "description": "A Metalsmith plugin to lint HTML.",
+  "keywords": ["metalsmith", "metalsmith-plugin", "plugin"],
   "homepage": "https://github.com/emmercm/metalsmith-html-linter#readme",
   "bugs": {
     "url": "https://github.com/emmercm/metalsmith-html-linter/issues"
@@ -39,6 +40,6 @@
     "metalsmith": "2.3.0"
   },
   "engines": {
-    "node": ""
+    "node": ">=10.13.0"
   }
 }
