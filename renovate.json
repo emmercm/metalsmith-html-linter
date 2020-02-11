@@ -20,6 +20,12 @@
     {
       "depTypeList": ["devDependencies"],
       "groupName": "Dev Dependencies"
+    },
+    {
+      "packageNames": ["htmllint"],
+      "updateTypes": ["major", "minor"],
+      "groupName": "htmllint",
+      "automerge": false
     }
   ]
 }
