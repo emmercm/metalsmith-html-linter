@@ -30,6 +30,7 @@
   },
   "dependencies": {
     "async": "^3.2.0",
+    "cheerio": "^1.0.0-rc.3",
     "deepmerge": "^4.2.2",
     "htmllint": "^0.8.0",
     "minimatch": "^3.0.4"
