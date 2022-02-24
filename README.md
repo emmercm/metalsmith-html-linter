@@ -41,7 +41,7 @@ Metalsmith(__dirname)
 
 Type: `string` Default: `**/*.html`
 
-A [minimatch](https://www.npmjs.com/package/minimatch) glob pattern to find HTML files.
+A [`micromatch`](https://www.npmjs.com/package/micromatch) glob pattern to find HTML files.
 
 ### `htmllint` (optional)
 
