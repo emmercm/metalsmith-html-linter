@@ -69,7 +69,7 @@ Type: `string` Default:
 }
 ```
 
-An object of [`linthtml` options](https://github.com/linthtml/linthtml/blob/develop/docs/configuration.md). These will be merged with the default [`linthtml`](https://www.npmjs.com/package/@linthtml/linthtml) options.
+An object of [`linthtml` options](https://github.com/linthtml/linthtml/blob/develop/docs/configuration.md). These will be merged with the [default `linthtml` options](https://github.com/linthtml/linthtml/blob/develop/lib/presets/default.js).
 
 Note: [`linthtml`](https://www.npmjs.com/package/@linthtml/linthtml) has an opinionated set of default options inherited from [`htmllint`](https://www.npmjs.com/package/htmllint) that are inconsistent with the HTML5 specification, hence the complicated default.
 
