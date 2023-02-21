@@ -1,5 +1,7 @@
 # metalsmith-html-linter
 
+**⚠️ This repistory has been moved to [metalsmith-plugins](https://github.com/emmercm/metalsmith-plugins/tree/main/packages/metalsmith-html-linter). ⚠️**
+
 [![npm Version](https://badgen.net/npm/v/metalsmith-html-linter?icon=npm)](https://www.npmjs.com/package/metalsmith-html-linter)
 [![npm Weekly Downloads](https://badgen.net/npm/dw/metalsmith-html-linter)](https://www.npmjs.com/package/metalsmith-html-linter)
 
